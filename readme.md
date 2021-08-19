@@ -1,22 +1,22 @@
-#Starter Webpack
+# Starter Webpack
 
-##Installation
+## Installation
 
 npm install
 
 
-##Usage
+## Usage
 
 npm run dev
 
 
-##doc
+## doc
 
 src is the source folder for webpack
 deploy is the output
 
 
 
-##Source - help 
+## Source - help 
 
 https://www.sitepoint.com/webpack-beginner-guide/
