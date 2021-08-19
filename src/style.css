@@ -1,0 +1,9 @@
+h1 {
+  color: green;
+  text-align: center;
+}
+img{
+  text-align: center;
+  display: inline-block;
+  width: 100%;
+}
