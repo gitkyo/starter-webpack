@@ -2,12 +2,16 @@
 
 ## Installation
 
-npm install
+>npm install
 
 
 ## Usage
 
-npm run dev
+### serveur
+>`npm run dev`
+
+### watch files
+>`npx webpack --watch`
 
 
 ## doc

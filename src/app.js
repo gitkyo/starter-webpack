@@ -1,4 +1,4 @@
-console.log("Hello, Webpack!");
+console.log("Hello, Webpackkkk !");
 
 import './style.css';
 
