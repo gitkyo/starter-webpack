@@ -8,10 +8,10 @@
 ## Usage
 
 ### serveur
->`npm run dev`
+>npm run dev
 
 ### watch files
->`npx webpack --watch`
+>npx webpack --watch
 
 
 ## doc
